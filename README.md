@@ -59,4 +59,4 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal {} untuk men
 
 ![gambar 10](img/10.png)
 
-#TERIMA KASIH :)
+# TERIMA KASIH :)
